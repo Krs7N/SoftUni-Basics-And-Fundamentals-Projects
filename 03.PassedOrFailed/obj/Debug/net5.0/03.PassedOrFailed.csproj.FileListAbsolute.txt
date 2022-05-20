@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.exe
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.deps.json
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.runtimeconfig.json
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.runtimeconfig.dev.json
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.dll
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\03.PassedOrFailed\bin\Debug\net5.0\ref\03.PassedOrFailed.dll
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.pdb
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.AssemblyInfo.cs
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.dll
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\03.PassedOrFailed\obj\Debug\net5.0\ref\03.PassedOrFailed.dll
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.pdb
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.genruntimeconfig.cache
