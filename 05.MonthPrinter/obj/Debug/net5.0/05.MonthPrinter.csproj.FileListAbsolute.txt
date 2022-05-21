@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.exe
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.deps.json
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.runtimeconfig.json
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.runtimeconfig.dev.json
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.dll
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\05.MonthPrinter\bin\Debug\net5.0\ref\05.MonthPrinter.dll
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.pdb
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.AssemblyInfo.cs
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.dll
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\05.MonthPrinter\obj\Debug\net5.0\ref\05.MonthPrinter.dll
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.pdb
+C:\Users\User\source\repos\01.IntroAndBasicSyntax\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.genruntimeconfig.cache
