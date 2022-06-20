@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ArraysLab\03.RoundingNumbers\bin\Debug\net5.0\03.RoundingNumbers.exe
+C:\Users\User\source\repos\ArraysLab\03.RoundingNumbers\bin\Debug\net5.0\03.RoundingNumbers.deps.json
+C:\Users\User\source\repos\ArraysLab\03.RoundingNumbers\bin\Debug\net5.0\03.RoundingNumbers.runtimeconfig.json
+C:\Users\User\source\repos\ArraysLab\03.RoundingNumbers\bin\Debug\net5.0\03.RoundingNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\ArraysLab\03.RoundingNumbers\bin\Debug\net5.0\03.RoundingNumbers.dll
+C:\Users\User\source\repos\ArraysLab\03.RoundingNumbers\bin\Debug\net5.0\03.RoundingNumbers.pdb
+C:\Users\User\source\repos\ArraysLab\03.RoundingNumbers\obj\Debug\net5.0\03.RoundingNumbers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ArraysLab\03.RoundingNumbers\obj\Debug\net5.0\03.RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ArraysLab\03.RoundingNumbers\obj\Debug\net5.0\03.RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ArraysLab\03.RoundingNumbers\obj\Debug\net5.0\03.RoundingNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\ArraysLab\03.RoundingNumbers\obj\Debug\net5.0\03.RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArraysLab\03.RoundingNumbers\obj\Debug\net5.0\03.RoundingNumbers.dll
+C:\Users\User\source\repos\ArraysLab\03.RoundingNumbers\obj\Debug\net5.0\refint\03.RoundingNumbers.dll
+C:\Users\User\source\repos\ArraysLab\03.RoundingNumbers\obj\Debug\net5.0\03.RoundingNumbers.pdb
+C:\Users\User\source\repos\ArraysLab\03.RoundingNumbers\obj\Debug\net5.0\03.RoundingNumbers.genruntimeconfig.cache
+C:\Users\User\source\repos\ArraysLab\03.RoundingNumbers\obj\Debug\net5.0\ref\03.RoundingNumbers.dll

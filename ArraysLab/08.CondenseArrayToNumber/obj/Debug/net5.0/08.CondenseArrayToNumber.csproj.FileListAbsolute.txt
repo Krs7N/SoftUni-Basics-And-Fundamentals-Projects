@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ArraysLab\08.CondenseArrayToNumber\bin\Debug\net5.0\08.CondenseArrayToNumber.exe
+C:\Users\User\source\repos\ArraysLab\08.CondenseArrayToNumber\bin\Debug\net5.0\08.CondenseArrayToNumber.deps.json
+C:\Users\User\source\repos\ArraysLab\08.CondenseArrayToNumber\bin\Debug\net5.0\08.CondenseArrayToNumber.runtimeconfig.json
+C:\Users\User\source\repos\ArraysLab\08.CondenseArrayToNumber\bin\Debug\net5.0\08.CondenseArrayToNumber.runtimeconfig.dev.json
+C:\Users\User\source\repos\ArraysLab\08.CondenseArrayToNumber\bin\Debug\net5.0\08.CondenseArrayToNumber.dll
+C:\Users\User\source\repos\ArraysLab\08.CondenseArrayToNumber\bin\Debug\net5.0\08.CondenseArrayToNumber.pdb
+C:\Users\User\source\repos\ArraysLab\08.CondenseArrayToNumber\obj\Debug\net5.0\08.CondenseArrayToNumber.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ArraysLab\08.CondenseArrayToNumber\obj\Debug\net5.0\08.CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ArraysLab\08.CondenseArrayToNumber\obj\Debug\net5.0\08.CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ArraysLab\08.CondenseArrayToNumber\obj\Debug\net5.0\08.CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\User\source\repos\ArraysLab\08.CondenseArrayToNumber\obj\Debug\net5.0\08.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArraysLab\08.CondenseArrayToNumber\obj\Debug\net5.0\08.CondenseArrayToNumber.dll
+C:\Users\User\source\repos\ArraysLab\08.CondenseArrayToNumber\obj\Debug\net5.0\refint\08.CondenseArrayToNumber.dll
+C:\Users\User\source\repos\ArraysLab\08.CondenseArrayToNumber\obj\Debug\net5.0\08.CondenseArrayToNumber.pdb
+C:\Users\User\source\repos\ArraysLab\08.CondenseArrayToNumber\obj\Debug\net5.0\08.CondenseArrayToNumber.genruntimeconfig.cache
+C:\Users\User\source\repos\ArraysLab\08.CondenseArrayToNumber\obj\Debug\net5.0\ref\08.CondenseArrayToNumber.dll
