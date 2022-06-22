@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ArraysExercise\04.ArrayRotation\bin\Debug\net5.0\04.ArrayRotation.exe
+C:\Users\User\source\repos\ArraysExercise\04.ArrayRotation\bin\Debug\net5.0\04.ArrayRotation.deps.json
+C:\Users\User\source\repos\ArraysExercise\04.ArrayRotation\bin\Debug\net5.0\04.ArrayRotation.runtimeconfig.json
+C:\Users\User\source\repos\ArraysExercise\04.ArrayRotation\bin\Debug\net5.0\04.ArrayRotation.runtimeconfig.dev.json
+C:\Users\User\source\repos\ArraysExercise\04.ArrayRotation\bin\Debug\net5.0\04.ArrayRotation.dll
+C:\Users\User\source\repos\ArraysExercise\04.ArrayRotation\bin\Debug\net5.0\04.ArrayRotation.pdb
+C:\Users\User\source\repos\ArraysExercise\04.ArrayRotation\obj\Debug\net5.0\04.ArrayRotation.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ArraysExercise\04.ArrayRotation\obj\Debug\net5.0\04.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ArraysExercise\04.ArrayRotation\obj\Debug\net5.0\04.ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ArraysExercise\04.ArrayRotation\obj\Debug\net5.0\04.ArrayRotation.AssemblyInfo.cs
+C:\Users\User\source\repos\ArraysExercise\04.ArrayRotation\obj\Debug\net5.0\04.ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArraysExercise\04.ArrayRotation\obj\Debug\net5.0\04.ArrayRotation.dll
+C:\Users\User\source\repos\ArraysExercise\04.ArrayRotation\obj\Debug\net5.0\refint\04.ArrayRotation.dll
+C:\Users\User\source\repos\ArraysExercise\04.ArrayRotation\obj\Debug\net5.0\04.ArrayRotation.pdb
+C:\Users\User\source\repos\ArraysExercise\04.ArrayRotation\obj\Debug\net5.0\04.ArrayRotation.genruntimeconfig.cache
+C:\Users\User\source\repos\ArraysExercise\04.ArrayRotation\obj\Debug\net5.0\ref\04.ArrayRotation.dll

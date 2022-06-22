@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ArraysExercise\07.MaxSequenceOfEqualElements\bin\Debug\net5.0\07.MaxSequenceOfEqualElements.exe
+C:\Users\User\source\repos\ArraysExercise\07.MaxSequenceOfEqualElements\bin\Debug\net5.0\07.MaxSequenceOfEqualElements.deps.json
+C:\Users\User\source\repos\ArraysExercise\07.MaxSequenceOfEqualElements\bin\Debug\net5.0\07.MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\User\source\repos\ArraysExercise\07.MaxSequenceOfEqualElements\bin\Debug\net5.0\07.MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\User\source\repos\ArraysExercise\07.MaxSequenceOfEqualElements\bin\Debug\net5.0\07.MaxSequenceOfEqualElements.dll
+C:\Users\User\source\repos\ArraysExercise\07.MaxSequenceOfEqualElements\bin\Debug\net5.0\07.MaxSequenceOfEqualElements.pdb
+C:\Users\User\source\repos\ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\net5.0\07.MaxSequenceOfEqualElements.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\net5.0\07.MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\net5.0\07.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\net5.0\07.MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\User\source\repos\ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\net5.0\07.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\net5.0\07.MaxSequenceOfEqualElements.dll
+C:\Users\User\source\repos\ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\net5.0\refint\07.MaxSequenceOfEqualElements.dll
+C:\Users\User\source\repos\ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\net5.0\07.MaxSequenceOfEqualElements.pdb
+C:\Users\User\source\repos\ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\net5.0\07.MaxSequenceOfEqualElements.genruntimeconfig.cache
+C:\Users\User\source\repos\ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\net5.0\ref\07.MaxSequenceOfEqualElements.dll
