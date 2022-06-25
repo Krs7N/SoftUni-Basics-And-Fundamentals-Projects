@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MethodsExercise\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.exe
+C:\Users\User\source\repos\MethodsExercise\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.deps.json
+C:\Users\User\source\repos\MethodsExercise\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.runtimeconfig.json
+C:\Users\User\source\repos\MethodsExercise\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.runtimeconfig.dev.json
+C:\Users\User\source\repos\MethodsExercise\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.dll
+C:\Users\User\source\repos\MethodsExercise\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.pdb
+C:\Users\User\source\repos\MethodsExercise\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MethodsExercise\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MethodsExercise\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MethodsExercise\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.AssemblyInfo.cs
+C:\Users\User\source\repos\MethodsExercise\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MethodsExercise\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.dll
+C:\Users\User\source\repos\MethodsExercise\02.VowelsCount\obj\Debug\net5.0\refint\02.VowelsCount.dll
+C:\Users\User\source\repos\MethodsExercise\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.pdb
+C:\Users\User\source\repos\MethodsExercise\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.genruntimeconfig.cache
+C:\Users\User\source\repos\MethodsExercise\02.VowelsCount\obj\Debug\net5.0\ref\02.VowelsCount.dll

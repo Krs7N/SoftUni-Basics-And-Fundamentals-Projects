@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MethodsExercise\08.FactorialDivision\bin\Debug\net5.0\08.FactorialDivision.exe
+C:\Users\User\source\repos\MethodsExercise\08.FactorialDivision\bin\Debug\net5.0\08.FactorialDivision.deps.json
+C:\Users\User\source\repos\MethodsExercise\08.FactorialDivision\bin\Debug\net5.0\08.FactorialDivision.runtimeconfig.json
+C:\Users\User\source\repos\MethodsExercise\08.FactorialDivision\bin\Debug\net5.0\08.FactorialDivision.runtimeconfig.dev.json
+C:\Users\User\source\repos\MethodsExercise\08.FactorialDivision\bin\Debug\net5.0\08.FactorialDivision.dll
+C:\Users\User\source\repos\MethodsExercise\08.FactorialDivision\bin\Debug\net5.0\08.FactorialDivision.pdb
+C:\Users\User\source\repos\MethodsExercise\08.FactorialDivision\obj\Debug\net5.0\08.FactorialDivision.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MethodsExercise\08.FactorialDivision\obj\Debug\net5.0\08.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MethodsExercise\08.FactorialDivision\obj\Debug\net5.0\08.FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MethodsExercise\08.FactorialDivision\obj\Debug\net5.0\08.FactorialDivision.AssemblyInfo.cs
+C:\Users\User\source\repos\MethodsExercise\08.FactorialDivision\obj\Debug\net5.0\08.FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MethodsExercise\08.FactorialDivision\obj\Debug\net5.0\08.FactorialDivision.dll
+C:\Users\User\source\repos\MethodsExercise\08.FactorialDivision\obj\Debug\net5.0\refint\08.FactorialDivision.dll
+C:\Users\User\source\repos\MethodsExercise\08.FactorialDivision\obj\Debug\net5.0\08.FactorialDivision.pdb
+C:\Users\User\source\repos\MethodsExercise\08.FactorialDivision\obj\Debug\net5.0\08.FactorialDivision.genruntimeconfig.cache
+C:\Users\User\source\repos\MethodsExercise\08.FactorialDivision\obj\Debug\net5.0\ref\08.FactorialDivision.dll
