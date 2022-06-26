@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ListExercise\07.AppendArrays\bin\Debug\net5.0\07.AppendArrays.exe
+C:\Users\User\source\repos\ListExercise\07.AppendArrays\bin\Debug\net5.0\07.AppendArrays.deps.json
+C:\Users\User\source\repos\ListExercise\07.AppendArrays\bin\Debug\net5.0\07.AppendArrays.runtimeconfig.json
+C:\Users\User\source\repos\ListExercise\07.AppendArrays\bin\Debug\net5.0\07.AppendArrays.runtimeconfig.dev.json
+C:\Users\User\source\repos\ListExercise\07.AppendArrays\bin\Debug\net5.0\07.AppendArrays.dll
+C:\Users\User\source\repos\ListExercise\07.AppendArrays\bin\Debug\net5.0\07.AppendArrays.pdb
+C:\Users\User\source\repos\ListExercise\07.AppendArrays\obj\Debug\net5.0\07.AppendArrays.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ListExercise\07.AppendArrays\obj\Debug\net5.0\07.AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ListExercise\07.AppendArrays\obj\Debug\net5.0\07.AppendArrays.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ListExercise\07.AppendArrays\obj\Debug\net5.0\07.AppendArrays.AssemblyInfo.cs
+C:\Users\User\source\repos\ListExercise\07.AppendArrays\obj\Debug\net5.0\07.AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ListExercise\07.AppendArrays\obj\Debug\net5.0\07.AppendArrays.dll
+C:\Users\User\source\repos\ListExercise\07.AppendArrays\obj\Debug\net5.0\refint\07.AppendArrays.dll
+C:\Users\User\source\repos\ListExercise\07.AppendArrays\obj\Debug\net5.0\07.AppendArrays.pdb
+C:\Users\User\source\repos\ListExercise\07.AppendArrays\obj\Debug\net5.0\07.AppendArrays.genruntimeconfig.cache
+C:\Users\User\source\repos\ListExercise\07.AppendArrays\obj\Debug\net5.0\ref\07.AppendArrays.dll

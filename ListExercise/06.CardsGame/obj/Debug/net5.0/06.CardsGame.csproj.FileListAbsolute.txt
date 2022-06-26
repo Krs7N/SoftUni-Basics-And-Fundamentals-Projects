@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\ListExercise\06.CardsGame\obj\Debug\net5.0\06.CardsGame.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ListExercise\06.CardsGame\obj\Debug\net5.0\06.CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ListExercise\06.CardsGame\obj\Debug\net5.0\06.CardsGame.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ListExercise\06.CardsGame\obj\Debug\net5.0\06.CardsGame.AssemblyInfo.cs
+C:\Users\User\source\repos\ListExercise\06.CardsGame\obj\Debug\net5.0\06.CardsGame.csproj.CoreCompileInputs.cache
