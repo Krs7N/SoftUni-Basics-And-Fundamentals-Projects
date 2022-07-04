@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalog.exe
+C:\Users\User\source\repos\ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalog.deps.json
+C:\Users\User\source\repos\ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalog.runtimeconfig.json
+C:\Users\User\source\repos\ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalog.runtimeconfig.dev.json
+C:\Users\User\source\repos\ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalog.dll
+C:\Users\User\source\repos\ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net5.0\07.VehicleCatalog.pdb
+C:\Users\User\source\repos\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalog.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalog.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalog.AssemblyInfo.cs
+C:\Users\User\source\repos\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalog.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalog.dll
+C:\Users\User\source\repos\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\refint\07.VehicleCatalog.dll
+C:\Users\User\source\repos\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalog.pdb
+C:\Users\User\source\repos\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\07.VehicleCatalog.genruntimeconfig.cache
+C:\Users\User\source\repos\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net5.0\ref\07.VehicleCatalog.dll

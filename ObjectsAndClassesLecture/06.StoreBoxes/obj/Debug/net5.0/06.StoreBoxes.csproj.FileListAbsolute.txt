@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ObjectsAndClasses\06.StoreBoxes\bin\Debug\net5.0\06.StoreBoxes.exe
+C:\Users\User\source\repos\ObjectsAndClasses\06.StoreBoxes\bin\Debug\net5.0\06.StoreBoxes.deps.json
+C:\Users\User\source\repos\ObjectsAndClasses\06.StoreBoxes\bin\Debug\net5.0\06.StoreBoxes.runtimeconfig.json
+C:\Users\User\source\repos\ObjectsAndClasses\06.StoreBoxes\bin\Debug\net5.0\06.StoreBoxes.runtimeconfig.dev.json
+C:\Users\User\source\repos\ObjectsAndClasses\06.StoreBoxes\bin\Debug\net5.0\06.StoreBoxes.dll
+C:\Users\User\source\repos\ObjectsAndClasses\06.StoreBoxes\bin\Debug\net5.0\06.StoreBoxes.pdb
+C:\Users\User\source\repos\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\06.StoreBoxes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\06.StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\06.StoreBoxes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\06.StoreBoxes.AssemblyInfo.cs
+C:\Users\User\source\repos\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\06.StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\06.StoreBoxes.dll
+C:\Users\User\source\repos\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\refint\06.StoreBoxes.dll
+C:\Users\User\source\repos\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\06.StoreBoxes.pdb
+C:\Users\User\source\repos\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\06.StoreBoxes.genruntimeconfig.cache
+C:\Users\User\source\repos\ObjectsAndClasses\06.StoreBoxes\obj\Debug\net5.0\ref\06.StoreBoxes.dll
