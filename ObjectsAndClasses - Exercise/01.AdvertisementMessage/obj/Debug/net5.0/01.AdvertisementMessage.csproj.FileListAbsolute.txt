@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.exe
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.deps.json
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.runtimeconfig.json
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.runtimeconfig.dev.json
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.dll
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.pdb
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.AssemblyInfo.cs
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.dll
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\01.AdvertisementMessage\obj\Debug\net5.0\refint\01.AdvertisementMessage.dll
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.pdb
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.genruntimeconfig.cache
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\01.AdvertisementMessage\obj\Debug\net5.0\ref\01.AdvertisementMessage.dll

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\02.Articles\bin\Debug\net5.0\02.Articles.exe
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\02.Articles\bin\Debug\net5.0\02.Articles.deps.json
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\02.Articles\bin\Debug\net5.0\02.Articles.runtimeconfig.json
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\02.Articles\bin\Debug\net5.0\02.Articles.runtimeconfig.dev.json
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\02.Articles\bin\Debug\net5.0\02.Articles.dll
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\02.Articles\bin\Debug\net5.0\02.Articles.pdb
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\02.Articles\obj\Debug\net5.0\02.Articles.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\02.Articles\obj\Debug\net5.0\02.Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\02.Articles\obj\Debug\net5.0\02.Articles.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\02.Articles\obj\Debug\net5.0\02.Articles.AssemblyInfo.cs
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\02.Articles\obj\Debug\net5.0\02.Articles.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\02.Articles\obj\Debug\net5.0\02.Articles.dll
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\02.Articles\obj\Debug\net5.0\refint\02.Articles.dll
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\02.Articles\obj\Debug\net5.0\02.Articles.pdb
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\02.Articles\obj\Debug\net5.0\02.Articles.genruntimeconfig.cache
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\02.Articles\obj\Debug\net5.0\ref\02.Articles.dll

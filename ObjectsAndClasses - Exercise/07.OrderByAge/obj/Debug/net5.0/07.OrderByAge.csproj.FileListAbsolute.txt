@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.exe
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.deps.json
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.runtimeconfig.json
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.runtimeconfig.dev.json
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.dll
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.pdb
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.AssemblyInfo.cs
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.dll
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\07.OrderByAge\obj\Debug\net5.0\refint\07.OrderByAge.dll
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.pdb
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.genruntimeconfig.cache
+C:\Users\User\source\repos\ObjectsAndClasses - Exercise\07.OrderByAge\obj\Debug\net5.0\ref\07.OrderByAge.dll
