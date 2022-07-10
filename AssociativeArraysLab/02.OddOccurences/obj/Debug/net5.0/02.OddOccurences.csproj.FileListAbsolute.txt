@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AssociativeArraysLab\02.OddOccurences\bin\Debug\net5.0\02.OddOccurences.exe
+C:\Users\User\source\repos\AssociativeArraysLab\02.OddOccurences\bin\Debug\net5.0\02.OddOccurences.deps.json
+C:\Users\User\source\repos\AssociativeArraysLab\02.OddOccurences\bin\Debug\net5.0\02.OddOccurences.runtimeconfig.json
+C:\Users\User\source\repos\AssociativeArraysLab\02.OddOccurences\bin\Debug\net5.0\02.OddOccurences.runtimeconfig.dev.json
+C:\Users\User\source\repos\AssociativeArraysLab\02.OddOccurences\bin\Debug\net5.0\02.OddOccurences.dll
+C:\Users\User\source\repos\AssociativeArraysLab\02.OddOccurences\bin\Debug\net5.0\02.OddOccurences.pdb
+C:\Users\User\source\repos\AssociativeArraysLab\02.OddOccurences\obj\Debug\net5.0\02.OddOccurences.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AssociativeArraysLab\02.OddOccurences\obj\Debug\net5.0\02.OddOccurences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AssociativeArraysLab\02.OddOccurences\obj\Debug\net5.0\02.OddOccurences.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AssociativeArraysLab\02.OddOccurences\obj\Debug\net5.0\02.OddOccurences.AssemblyInfo.cs
+C:\Users\User\source\repos\AssociativeArraysLab\02.OddOccurences\obj\Debug\net5.0\02.OddOccurences.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AssociativeArraysLab\02.OddOccurences\obj\Debug\net5.0\02.OddOccurences.dll
+C:\Users\User\source\repos\AssociativeArraysLab\02.OddOccurences\obj\Debug\net5.0\refint\02.OddOccurences.dll
+C:\Users\User\source\repos\AssociativeArraysLab\02.OddOccurences\obj\Debug\net5.0\02.OddOccurences.pdb
+C:\Users\User\source\repos\AssociativeArraysLab\02.OddOccurences\obj\Debug\net5.0\02.OddOccurences.genruntimeconfig.cache
+C:\Users\User\source\repos\AssociativeArraysLab\02.OddOccurences\obj\Debug\net5.0\ref\02.OddOccurences.dll
