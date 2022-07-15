@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TextProcessing - Lab\05.Digits,LettersAndOther\bin\Debug\net5.0\05.Digits,LettersAndOther.exe
+C:\Users\User\source\repos\TextProcessing - Lab\05.Digits,LettersAndOther\bin\Debug\net5.0\05.Digits,LettersAndOther.deps.json
+C:\Users\User\source\repos\TextProcessing - Lab\05.Digits,LettersAndOther\bin\Debug\net5.0\05.Digits,LettersAndOther.runtimeconfig.json
+C:\Users\User\source\repos\TextProcessing - Lab\05.Digits,LettersAndOther\bin\Debug\net5.0\05.Digits,LettersAndOther.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextProcessing - Lab\05.Digits,LettersAndOther\bin\Debug\net5.0\05.Digits,LettersAndOther.dll
+C:\Users\User\source\repos\TextProcessing - Lab\05.Digits,LettersAndOther\bin\Debug\net5.0\05.Digits,LettersAndOther.pdb
+C:\Users\User\source\repos\TextProcessing - Lab\05.Digits,LettersAndOther\obj\Debug\net5.0\05.Digits,LettersAndOther.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TextProcessing - Lab\05.Digits,LettersAndOther\obj\Debug\net5.0\05.Digits,LettersAndOther.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TextProcessing - Lab\05.Digits,LettersAndOther\obj\Debug\net5.0\05.Digits,LettersAndOther.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextProcessing - Lab\05.Digits,LettersAndOther\obj\Debug\net5.0\05.Digits,LettersAndOther.AssemblyInfo.cs
+C:\Users\User\source\repos\TextProcessing - Lab\05.Digits,LettersAndOther\obj\Debug\net5.0\05.Digits,LettersAndOther.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextProcessing - Lab\05.Digits,LettersAndOther\obj\Debug\net5.0\05.Digits,LettersAndOther.dll
+C:\Users\User\source\repos\TextProcessing - Lab\05.Digits,LettersAndOther\obj\Debug\net5.0\refint\05.Digits,LettersAndOther.dll
+C:\Users\User\source\repos\TextProcessing - Lab\05.Digits,LettersAndOther\obj\Debug\net5.0\05.Digits,LettersAndOther.pdb
+C:\Users\User\source\repos\TextProcessing - Lab\05.Digits,LettersAndOther\obj\Debug\net5.0\05.Digits,LettersAndOther.genruntimeconfig.cache
+C:\Users\User\source\repos\TextProcessing - Lab\05.Digits,LettersAndOther\obj\Debug\net5.0\ref\05.Digits,LettersAndOther.dll
