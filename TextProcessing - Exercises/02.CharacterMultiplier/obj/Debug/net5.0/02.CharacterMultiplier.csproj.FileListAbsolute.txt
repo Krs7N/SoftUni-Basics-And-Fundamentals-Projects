@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TextProcessing - Exercises\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.exe
+C:\Users\User\source\repos\TextProcessing - Exercises\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.deps.json
+C:\Users\User\source\repos\TextProcessing - Exercises\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.runtimeconfig.json
+C:\Users\User\source\repos\TextProcessing - Exercises\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextProcessing - Exercises\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.dll
+C:\Users\User\source\repos\TextProcessing - Exercises\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.pdb
+C:\Users\User\source\repos\TextProcessing - Exercises\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TextProcessing - Exercises\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TextProcessing - Exercises\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextProcessing - Exercises\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.AssemblyInfo.cs
+C:\Users\User\source\repos\TextProcessing - Exercises\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextProcessing - Exercises\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.dll
+C:\Users\User\source\repos\TextProcessing - Exercises\02.CharacterMultiplier\obj\Debug\net5.0\refint\02.CharacterMultiplier.dll
+C:\Users\User\source\repos\TextProcessing - Exercises\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.pdb
+C:\Users\User\source\repos\TextProcessing - Exercises\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.genruntimeconfig.cache
+C:\Users\User\source\repos\TextProcessing - Exercises\02.CharacterMultiplier\obj\Debug\net5.0\ref\02.CharacterMultiplier.dll

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TextProcessing - Exercises\08.LettersChangeNumbers\bin\Debug\net5.0\08.LettersChangeNumbers.exe
+C:\Users\User\source\repos\TextProcessing - Exercises\08.LettersChangeNumbers\bin\Debug\net5.0\08.LettersChangeNumbers.deps.json
+C:\Users\User\source\repos\TextProcessing - Exercises\08.LettersChangeNumbers\bin\Debug\net5.0\08.LettersChangeNumbers.runtimeconfig.json
+C:\Users\User\source\repos\TextProcessing - Exercises\08.LettersChangeNumbers\bin\Debug\net5.0\08.LettersChangeNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextProcessing - Exercises\08.LettersChangeNumbers\bin\Debug\net5.0\08.LettersChangeNumbers.dll
+C:\Users\User\source\repos\TextProcessing - Exercises\08.LettersChangeNumbers\bin\Debug\net5.0\08.LettersChangeNumbers.pdb
+C:\Users\User\source\repos\TextProcessing - Exercises\08.LettersChangeNumbers\obj\Debug\net5.0\08.LettersChangeNumbers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TextProcessing - Exercises\08.LettersChangeNumbers\obj\Debug\net5.0\08.LettersChangeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TextProcessing - Exercises\08.LettersChangeNumbers\obj\Debug\net5.0\08.LettersChangeNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextProcessing - Exercises\08.LettersChangeNumbers\obj\Debug\net5.0\08.LettersChangeNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\TextProcessing - Exercises\08.LettersChangeNumbers\obj\Debug\net5.0\08.LettersChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextProcessing - Exercises\08.LettersChangeNumbers\obj\Debug\net5.0\08.LettersChangeNumbers.dll
+C:\Users\User\source\repos\TextProcessing - Exercises\08.LettersChangeNumbers\obj\Debug\net5.0\refint\08.LettersChangeNumbers.dll
+C:\Users\User\source\repos\TextProcessing - Exercises\08.LettersChangeNumbers\obj\Debug\net5.0\08.LettersChangeNumbers.pdb
+C:\Users\User\source\repos\TextProcessing - Exercises\08.LettersChangeNumbers\obj\Debug\net5.0\08.LettersChangeNumbers.genruntimeconfig.cache
+C:\Users\User\source\repos\TextProcessing - Exercises\08.LettersChangeNumbers\obj\Debug\net5.0\ref\08.LettersChangeNumbers.dll

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TextProcessing - Exercises\06.ReplaceRepeatingChars\bin\Debug\net5.0\06.ReplaceRepeatingChars.exe
+C:\Users\User\source\repos\TextProcessing - Exercises\06.ReplaceRepeatingChars\bin\Debug\net5.0\06.ReplaceRepeatingChars.deps.json
+C:\Users\User\source\repos\TextProcessing - Exercises\06.ReplaceRepeatingChars\bin\Debug\net5.0\06.ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\User\source\repos\TextProcessing - Exercises\06.ReplaceRepeatingChars\bin\Debug\net5.0\06.ReplaceRepeatingChars.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextProcessing - Exercises\06.ReplaceRepeatingChars\bin\Debug\net5.0\06.ReplaceRepeatingChars.dll
+C:\Users\User\source\repos\TextProcessing - Exercises\06.ReplaceRepeatingChars\bin\Debug\net5.0\06.ReplaceRepeatingChars.pdb
+C:\Users\User\source\repos\TextProcessing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\06.ReplaceRepeatingChars.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TextProcessing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\06.ReplaceRepeatingChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TextProcessing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\06.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextProcessing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\06.ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\User\source\repos\TextProcessing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextProcessing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\06.ReplaceRepeatingChars.dll
+C:\Users\User\source\repos\TextProcessing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\refint\06.ReplaceRepeatingChars.dll
+C:\Users\User\source\repos\TextProcessing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\06.ReplaceRepeatingChars.pdb
+C:\Users\User\source\repos\TextProcessing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\06.ReplaceRepeatingChars.genruntimeconfig.cache
+C:\Users\User\source\repos\TextProcessing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net5.0\ref\06.ReplaceRepeatingChars.dll

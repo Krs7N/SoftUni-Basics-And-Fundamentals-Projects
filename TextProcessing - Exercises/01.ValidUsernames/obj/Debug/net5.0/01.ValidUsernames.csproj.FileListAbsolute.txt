@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TextProcessing - Exercises\01.ValidUsernames\bin\Debug\net5.0\01.ValidUsernames.exe
+C:\Users\User\source\repos\TextProcessing - Exercises\01.ValidUsernames\bin\Debug\net5.0\01.ValidUsernames.deps.json
+C:\Users\User\source\repos\TextProcessing - Exercises\01.ValidUsernames\bin\Debug\net5.0\01.ValidUsernames.runtimeconfig.json
+C:\Users\User\source\repos\TextProcessing - Exercises\01.ValidUsernames\bin\Debug\net5.0\01.ValidUsernames.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextProcessing - Exercises\01.ValidUsernames\bin\Debug\net5.0\01.ValidUsernames.dll
+C:\Users\User\source\repos\TextProcessing - Exercises\01.ValidUsernames\bin\Debug\net5.0\01.ValidUsernames.pdb
+C:\Users\User\source\repos\TextProcessing - Exercises\01.ValidUsernames\obj\Debug\net5.0\01.ValidUsernames.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TextProcessing - Exercises\01.ValidUsernames\obj\Debug\net5.0\01.ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TextProcessing - Exercises\01.ValidUsernames\obj\Debug\net5.0\01.ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextProcessing - Exercises\01.ValidUsernames\obj\Debug\net5.0\01.ValidUsernames.AssemblyInfo.cs
+C:\Users\User\source\repos\TextProcessing - Exercises\01.ValidUsernames\obj\Debug\net5.0\01.ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextProcessing - Exercises\01.ValidUsernames\obj\Debug\net5.0\01.ValidUsernames.dll
+C:\Users\User\source\repos\TextProcessing - Exercises\01.ValidUsernames\obj\Debug\net5.0\refint\01.ValidUsernames.dll
+C:\Users\User\source\repos\TextProcessing - Exercises\01.ValidUsernames\obj\Debug\net5.0\01.ValidUsernames.pdb
+C:\Users\User\source\repos\TextProcessing - Exercises\01.ValidUsernames\obj\Debug\net5.0\01.ValidUsernames.genruntimeconfig.cache
+C:\Users\User\source\repos\TextProcessing - Exercises\01.ValidUsernames\obj\Debug\net5.0\ref\01.ValidUsernames.dll
