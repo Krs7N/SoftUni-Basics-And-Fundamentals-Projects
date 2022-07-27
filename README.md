@@ -1,4 +1,4 @@
-# SoftUniFundamentalsWork
+# SoftUniFundamentals + Basics
 Here I will be posting my SoftUni course works
 ------------------------------------------------------
 My first folders are revision from my basics course in SoftUni:<br/>
