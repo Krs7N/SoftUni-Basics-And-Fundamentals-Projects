@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Associative Arrays - More Exercises\02.Judge\bin\Debug\net5.0\02.Judge.exe
+C:\Users\User\source\repos\Associative Arrays - More Exercises\02.Judge\bin\Debug\net5.0\02.Judge.deps.json
+C:\Users\User\source\repos\Associative Arrays - More Exercises\02.Judge\bin\Debug\net5.0\02.Judge.runtimeconfig.json
+C:\Users\User\source\repos\Associative Arrays - More Exercises\02.Judge\bin\Debug\net5.0\02.Judge.runtimeconfig.dev.json
+C:\Users\User\source\repos\Associative Arrays - More Exercises\02.Judge\bin\Debug\net5.0\02.Judge.dll
+C:\Users\User\source\repos\Associative Arrays - More Exercises\02.Judge\bin\Debug\net5.0\02.Judge.pdb
+C:\Users\User\source\repos\Associative Arrays - More Exercises\02.Judge\obj\Debug\net5.0\02.Judge.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Associative Arrays - More Exercises\02.Judge\obj\Debug\net5.0\02.Judge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Associative Arrays - More Exercises\02.Judge\obj\Debug\net5.0\02.Judge.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Associative Arrays - More Exercises\02.Judge\obj\Debug\net5.0\02.Judge.AssemblyInfo.cs
+C:\Users\User\source\repos\Associative Arrays - More Exercises\02.Judge\obj\Debug\net5.0\02.Judge.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Associative Arrays - More Exercises\02.Judge\obj\Debug\net5.0\02.Judge.dll
+C:\Users\User\source\repos\Associative Arrays - More Exercises\02.Judge\obj\Debug\net5.0\refint\02.Judge.dll
+C:\Users\User\source\repos\Associative Arrays - More Exercises\02.Judge\obj\Debug\net5.0\02.Judge.pdb
+C:\Users\User\source\repos\Associative Arrays - More Exercises\02.Judge\obj\Debug\net5.0\02.Judge.genruntimeconfig.cache
+C:\Users\User\source\repos\Associative Arrays - More Exercises\02.Judge\obj\Debug\net5.0\ref\02.Judge.dll
