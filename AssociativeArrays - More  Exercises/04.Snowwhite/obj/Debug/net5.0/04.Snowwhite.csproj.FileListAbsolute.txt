@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Associative Arrays - More Exercises\04.Snowwhite\bin\Debug\net5.0\04.Snowwhite.exe
+C:\Users\User\source\repos\Associative Arrays - More Exercises\04.Snowwhite\bin\Debug\net5.0\04.Snowwhite.deps.json
+C:\Users\User\source\repos\Associative Arrays - More Exercises\04.Snowwhite\bin\Debug\net5.0\04.Snowwhite.runtimeconfig.json
+C:\Users\User\source\repos\Associative Arrays - More Exercises\04.Snowwhite\bin\Debug\net5.0\04.Snowwhite.runtimeconfig.dev.json
+C:\Users\User\source\repos\Associative Arrays - More Exercises\04.Snowwhite\bin\Debug\net5.0\04.Snowwhite.dll
+C:\Users\User\source\repos\Associative Arrays - More Exercises\04.Snowwhite\bin\Debug\net5.0\04.Snowwhite.pdb
+C:\Users\User\source\repos\Associative Arrays - More Exercises\04.Snowwhite\obj\Debug\net5.0\04.Snowwhite.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Associative Arrays - More Exercises\04.Snowwhite\obj\Debug\net5.0\04.Snowwhite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Associative Arrays - More Exercises\04.Snowwhite\obj\Debug\net5.0\04.Snowwhite.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Associative Arrays - More Exercises\04.Snowwhite\obj\Debug\net5.0\04.Snowwhite.AssemblyInfo.cs
+C:\Users\User\source\repos\Associative Arrays - More Exercises\04.Snowwhite\obj\Debug\net5.0\04.Snowwhite.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Associative Arrays - More Exercises\04.Snowwhite\obj\Debug\net5.0\04.Snowwhite.dll
+C:\Users\User\source\repos\Associative Arrays - More Exercises\04.Snowwhite\obj\Debug\net5.0\refint\04.Snowwhite.dll
+C:\Users\User\source\repos\Associative Arrays - More Exercises\04.Snowwhite\obj\Debug\net5.0\04.Snowwhite.pdb
+C:\Users\User\source\repos\Associative Arrays - More Exercises\04.Snowwhite\obj\Debug\net5.0\04.Snowwhite.genruntimeconfig.cache
+C:\Users\User\source\repos\Associative Arrays - More Exercises\04.Snowwhite\obj\Debug\net5.0\ref\04.Snowwhite.dll

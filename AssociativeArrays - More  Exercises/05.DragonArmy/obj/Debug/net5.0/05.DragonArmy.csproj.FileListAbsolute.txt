@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Associative Arrays - More Exercises\05.DragonArmy\bin\Debug\net5.0\05.DragonArmy.exe
+C:\Users\User\source\repos\Associative Arrays - More Exercises\05.DragonArmy\bin\Debug\net5.0\05.DragonArmy.deps.json
+C:\Users\User\source\repos\Associative Arrays - More Exercises\05.DragonArmy\bin\Debug\net5.0\05.DragonArmy.runtimeconfig.json
+C:\Users\User\source\repos\Associative Arrays - More Exercises\05.DragonArmy\bin\Debug\net5.0\05.DragonArmy.runtimeconfig.dev.json
+C:\Users\User\source\repos\Associative Arrays - More Exercises\05.DragonArmy\bin\Debug\net5.0\05.DragonArmy.dll
+C:\Users\User\source\repos\Associative Arrays - More Exercises\05.DragonArmy\bin\Debug\net5.0\05.DragonArmy.pdb
+C:\Users\User\source\repos\Associative Arrays - More Exercises\05.DragonArmy\obj\Debug\net5.0\05.DragonArmy.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Associative Arrays - More Exercises\05.DragonArmy\obj\Debug\net5.0\05.DragonArmy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Associative Arrays - More Exercises\05.DragonArmy\obj\Debug\net5.0\05.DragonArmy.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Associative Arrays - More Exercises\05.DragonArmy\obj\Debug\net5.0\05.DragonArmy.AssemblyInfo.cs
+C:\Users\User\source\repos\Associative Arrays - More Exercises\05.DragonArmy\obj\Debug\net5.0\05.DragonArmy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Associative Arrays - More Exercises\05.DragonArmy\obj\Debug\net5.0\05.DragonArmy.dll
+C:\Users\User\source\repos\Associative Arrays - More Exercises\05.DragonArmy\obj\Debug\net5.0\refint\05.DragonArmy.dll
+C:\Users\User\source\repos\Associative Arrays - More Exercises\05.DragonArmy\obj\Debug\net5.0\05.DragonArmy.pdb
+C:\Users\User\source\repos\Associative Arrays - More Exercises\05.DragonArmy\obj\Debug\net5.0\05.DragonArmy.genruntimeconfig.cache
+C:\Users\User\source\repos\Associative Arrays - More Exercises\05.DragonArmy\obj\Debug\net5.0\ref\05.DragonArmy.dll

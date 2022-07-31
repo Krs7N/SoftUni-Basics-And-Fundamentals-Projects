@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Associative Arrays - More Exercises\03.MOBAChallenger\bin\Debug\net5.0\03.MOBAChallenger.exe
+C:\Users\User\source\repos\Associative Arrays - More Exercises\03.MOBAChallenger\bin\Debug\net5.0\03.MOBAChallenger.deps.json
+C:\Users\User\source\repos\Associative Arrays - More Exercises\03.MOBAChallenger\bin\Debug\net5.0\03.MOBAChallenger.runtimeconfig.json
+C:\Users\User\source\repos\Associative Arrays - More Exercises\03.MOBAChallenger\bin\Debug\net5.0\03.MOBAChallenger.runtimeconfig.dev.json
+C:\Users\User\source\repos\Associative Arrays - More Exercises\03.MOBAChallenger\bin\Debug\net5.0\03.MOBAChallenger.dll
+C:\Users\User\source\repos\Associative Arrays - More Exercises\03.MOBAChallenger\bin\Debug\net5.0\03.MOBAChallenger.pdb
+C:\Users\User\source\repos\Associative Arrays - More Exercises\03.MOBAChallenger\obj\Debug\net5.0\03.MOBAChallenger.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Associative Arrays - More Exercises\03.MOBAChallenger\obj\Debug\net5.0\03.MOBAChallenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Associative Arrays - More Exercises\03.MOBAChallenger\obj\Debug\net5.0\03.MOBAChallenger.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Associative Arrays - More Exercises\03.MOBAChallenger\obj\Debug\net5.0\03.MOBAChallenger.AssemblyInfo.cs
+C:\Users\User\source\repos\Associative Arrays - More Exercises\03.MOBAChallenger\obj\Debug\net5.0\03.MOBAChallenger.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Associative Arrays - More Exercises\03.MOBAChallenger\obj\Debug\net5.0\03.MOBAChallenger.dll
+C:\Users\User\source\repos\Associative Arrays - More Exercises\03.MOBAChallenger\obj\Debug\net5.0\refint\03.MOBAChallenger.dll
+C:\Users\User\source\repos\Associative Arrays - More Exercises\03.MOBAChallenger\obj\Debug\net5.0\03.MOBAChallenger.pdb
+C:\Users\User\source\repos\Associative Arrays - More Exercises\03.MOBAChallenger\obj\Debug\net5.0\03.MOBAChallenger.genruntimeconfig.cache
+C:\Users\User\source\repos\Associative Arrays - More Exercises\03.MOBAChallenger\obj\Debug\net5.0\ref\03.MOBAChallenger.dll
