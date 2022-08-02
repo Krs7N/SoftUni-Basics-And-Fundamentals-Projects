@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\02.DestinationMapper\bin\Debug\net5.0\02.DestinationMapper.exe
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\02.DestinationMapper\bin\Debug\net5.0\02.DestinationMapper.deps.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\02.DestinationMapper\bin\Debug\net5.0\02.DestinationMapper.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\02.DestinationMapper\bin\Debug\net5.0\02.DestinationMapper.runtimeconfig.dev.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\02.DestinationMapper\bin\Debug\net5.0\02.DestinationMapper.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\02.DestinationMapper\bin\Debug\net5.0\02.DestinationMapper.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\02.DestinationMapper\obj\Debug\net5.0\02.DestinationMapper.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\02.DestinationMapper\obj\Debug\net5.0\02.DestinationMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\02.DestinationMapper\obj\Debug\net5.0\02.DestinationMapper.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\02.DestinationMapper\obj\Debug\net5.0\02.DestinationMapper.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\02.DestinationMapper\obj\Debug\net5.0\02.DestinationMapper.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\02.DestinationMapper\obj\Debug\net5.0\02.DestinationMapper.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\02.DestinationMapper\obj\Debug\net5.0\refint\02.DestinationMapper.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\02.DestinationMapper\obj\Debug\net5.0\02.DestinationMapper.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\02.DestinationMapper\obj\Debug\net5.0\02.DestinationMapper.genruntimeconfig.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\02.DestinationMapper\obj\Debug\net5.0\ref\02.DestinationMapper.dll
