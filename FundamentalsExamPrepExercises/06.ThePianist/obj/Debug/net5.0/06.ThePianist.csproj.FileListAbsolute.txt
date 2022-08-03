@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\06.ThePianist\bin\Debug\net5.0\06.ThePianist.exe
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\06.ThePianist\bin\Debug\net5.0\06.ThePianist.deps.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\06.ThePianist\bin\Debug\net5.0\06.ThePianist.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\06.ThePianist\bin\Debug\net5.0\06.ThePianist.runtimeconfig.dev.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\06.ThePianist\bin\Debug\net5.0\06.ThePianist.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\06.ThePianist\bin\Debug\net5.0\06.ThePianist.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\06.ThePianist\obj\Debug\net5.0\06.ThePianist.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\06.ThePianist\obj\Debug\net5.0\06.ThePianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\06.ThePianist\obj\Debug\net5.0\06.ThePianist.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\06.ThePianist\obj\Debug\net5.0\06.ThePianist.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\06.ThePianist\obj\Debug\net5.0\06.ThePianist.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\06.ThePianist\obj\Debug\net5.0\06.ThePianist.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\06.ThePianist\obj\Debug\net5.0\refint\06.ThePianist.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\06.ThePianist\obj\Debug\net5.0\06.ThePianist.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\06.ThePianist\obj\Debug\net5.0\06.ThePianist.genruntimeconfig.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\06.ThePianist\obj\Debug\net5.0\ref\06.ThePianist.dll

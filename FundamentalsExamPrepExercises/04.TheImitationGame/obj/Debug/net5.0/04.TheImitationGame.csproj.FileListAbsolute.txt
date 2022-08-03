@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\04.TheImitationGame\bin\Debug\net5.0\04.TheImitationGame.exe
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\04.TheImitationGame\bin\Debug\net5.0\04.TheImitationGame.deps.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\04.TheImitationGame\bin\Debug\net5.0\04.TheImitationGame.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\04.TheImitationGame\bin\Debug\net5.0\04.TheImitationGame.runtimeconfig.dev.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\04.TheImitationGame\bin\Debug\net5.0\04.TheImitationGame.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\04.TheImitationGame\bin\Debug\net5.0\04.TheImitationGame.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\04.TheImitationGame\obj\Debug\net5.0\04.TheImitationGame.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\04.TheImitationGame\obj\Debug\net5.0\04.TheImitationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\04.TheImitationGame\obj\Debug\net5.0\04.TheImitationGame.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\04.TheImitationGame\obj\Debug\net5.0\04.TheImitationGame.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\04.TheImitationGame\obj\Debug\net5.0\04.TheImitationGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\04.TheImitationGame\obj\Debug\net5.0\04.TheImitationGame.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\04.TheImitationGame\obj\Debug\net5.0\refint\04.TheImitationGame.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\04.TheImitationGame\obj\Debug\net5.0\04.TheImitationGame.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\04.TheImitationGame\obj\Debug\net5.0\04.TheImitationGame.genruntimeconfig.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\04.TheImitationGame\obj\Debug\net5.0\ref\04.TheImitationGame.dll

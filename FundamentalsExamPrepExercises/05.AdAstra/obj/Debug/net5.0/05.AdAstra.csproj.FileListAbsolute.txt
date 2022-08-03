@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\05.AdAstra\bin\Debug\net5.0\05.AdAstra.exe
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\05.AdAstra\bin\Debug\net5.0\05.AdAstra.deps.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\05.AdAstra\bin\Debug\net5.0\05.AdAstra.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\05.AdAstra\bin\Debug\net5.0\05.AdAstra.runtimeconfig.dev.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\05.AdAstra\bin\Debug\net5.0\05.AdAstra.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\05.AdAstra\bin\Debug\net5.0\05.AdAstra.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\05.AdAstra\obj\Debug\net5.0\05.AdAstra.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\05.AdAstra\obj\Debug\net5.0\05.AdAstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\05.AdAstra\obj\Debug\net5.0\05.AdAstra.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\05.AdAstra\obj\Debug\net5.0\05.AdAstra.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\05.AdAstra\obj\Debug\net5.0\05.AdAstra.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\05.AdAstra\obj\Debug\net5.0\05.AdAstra.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\05.AdAstra\obj\Debug\net5.0\refint\05.AdAstra.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\05.AdAstra\obj\Debug\net5.0\05.AdAstra.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\05.AdAstra\obj\Debug\net5.0\05.AdAstra.genruntimeconfig.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\05.AdAstra\obj\Debug\net5.0\ref\05.AdAstra.dll
