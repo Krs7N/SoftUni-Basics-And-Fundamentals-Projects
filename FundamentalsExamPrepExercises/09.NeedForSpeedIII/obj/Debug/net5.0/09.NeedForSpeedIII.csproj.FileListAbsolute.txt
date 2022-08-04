@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\09.NeedForSpeedIII\bin\Debug\net5.0\09.NeedForSpeedIII.exe
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\09.NeedForSpeedIII\bin\Debug\net5.0\09.NeedForSpeedIII.deps.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\09.NeedForSpeedIII\bin\Debug\net5.0\09.NeedForSpeedIII.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\09.NeedForSpeedIII\bin\Debug\net5.0\09.NeedForSpeedIII.runtimeconfig.dev.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\09.NeedForSpeedIII\bin\Debug\net5.0\09.NeedForSpeedIII.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\09.NeedForSpeedIII\bin\Debug\net5.0\09.NeedForSpeedIII.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\09.NeedForSpeedIII\obj\Debug\net5.0\09.NeedForSpeedIII.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\09.NeedForSpeedIII\obj\Debug\net5.0\09.NeedForSpeedIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\09.NeedForSpeedIII\obj\Debug\net5.0\09.NeedForSpeedIII.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\09.NeedForSpeedIII\obj\Debug\net5.0\09.NeedForSpeedIII.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\09.NeedForSpeedIII\obj\Debug\net5.0\09.NeedForSpeedIII.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\09.NeedForSpeedIII\obj\Debug\net5.0\09.NeedForSpeedIII.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\09.NeedForSpeedIII\obj\Debug\net5.0\refint\09.NeedForSpeedIII.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\09.NeedForSpeedIII\obj\Debug\net5.0\09.NeedForSpeedIII.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\09.NeedForSpeedIII\obj\Debug\net5.0\09.NeedForSpeedIII.genruntimeconfig.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\09.NeedForSpeedIII\obj\Debug\net5.0\ref\09.NeedForSpeedIII.dll

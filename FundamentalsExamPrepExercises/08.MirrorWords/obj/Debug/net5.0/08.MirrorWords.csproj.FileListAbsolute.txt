@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\08.MirrorWords\bin\Debug\net5.0\08.MirrorWords.exe
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\08.MirrorWords\bin\Debug\net5.0\08.MirrorWords.deps.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\08.MirrorWords\bin\Debug\net5.0\08.MirrorWords.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\08.MirrorWords\bin\Debug\net5.0\08.MirrorWords.runtimeconfig.dev.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\08.MirrorWords\bin\Debug\net5.0\08.MirrorWords.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\08.MirrorWords\bin\Debug\net5.0\08.MirrorWords.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\08.MirrorWords\obj\Debug\net5.0\08.MirrorWords.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\08.MirrorWords\obj\Debug\net5.0\08.MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\08.MirrorWords\obj\Debug\net5.0\08.MirrorWords.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\08.MirrorWords\obj\Debug\net5.0\08.MirrorWords.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\08.MirrorWords\obj\Debug\net5.0\08.MirrorWords.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\08.MirrorWords\obj\Debug\net5.0\08.MirrorWords.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\08.MirrorWords\obj\Debug\net5.0\refint\08.MirrorWords.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\08.MirrorWords\obj\Debug\net5.0\08.MirrorWords.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\08.MirrorWords\obj\Debug\net5.0\08.MirrorWords.genruntimeconfig.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\08.MirrorWords\obj\Debug\net5.0\ref\08.MirrorWords.dll
