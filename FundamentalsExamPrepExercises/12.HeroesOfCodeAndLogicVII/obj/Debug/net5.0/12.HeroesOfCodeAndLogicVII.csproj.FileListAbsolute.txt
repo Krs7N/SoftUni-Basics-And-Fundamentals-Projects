@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\12.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\12.HeroesOfCodeAndLogicVII.exe
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\12.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\12.HeroesOfCodeAndLogicVII.deps.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\12.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\12.HeroesOfCodeAndLogicVII.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\12.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\12.HeroesOfCodeAndLogicVII.runtimeconfig.dev.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\12.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\12.HeroesOfCodeAndLogicVII.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\12.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\12.HeroesOfCodeAndLogicVII.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\12.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\12.HeroesOfCodeAndLogicVII.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\12.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\12.HeroesOfCodeAndLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\12.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\12.HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\12.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\12.HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\12.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\12.HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\12.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\12.HeroesOfCodeAndLogicVII.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\12.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\refint\12.HeroesOfCodeAndLogicVII.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\12.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\12.HeroesOfCodeAndLogicVII.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\12.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\12.HeroesOfCodeAndLogicVII.genruntimeconfig.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\12.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\ref\12.HeroesOfCodeAndLogicVII.dll
