@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\15.P!rates\bin\Debug\net5.0\15.P!rates.exe
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\15.P!rates\bin\Debug\net5.0\15.P!rates.deps.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\15.P!rates\bin\Debug\net5.0\15.P!rates.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\15.P!rates\bin\Debug\net5.0\15.P!rates.runtimeconfig.dev.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\15.P!rates\bin\Debug\net5.0\15.P!rates.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\15.P!rates\bin\Debug\net5.0\15.P!rates.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\15.P!rates\obj\Debug\net5.0\15.P!rates.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\15.P!rates\obj\Debug\net5.0\15.P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\15.P!rates\obj\Debug\net5.0\15.P!rates.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\15.P!rates\obj\Debug\net5.0\15.P!rates.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\15.P!rates\obj\Debug\net5.0\15.P!rates.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\15.P!rates\obj\Debug\net5.0\15.P!rates.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\15.P!rates\obj\Debug\net5.0\refint\15.P!rates.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\15.P!rates\obj\Debug\net5.0\15.P!rates.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\15.P!rates\obj\Debug\net5.0\15.P!rates.genruntimeconfig.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\15.P!rates\obj\Debug\net5.0\ref\15.P!rates.dll

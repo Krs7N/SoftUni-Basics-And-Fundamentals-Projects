@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\13.ActivationKeys\bin\Debug\net5.0\13.ActivationKeys.exe
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\13.ActivationKeys\bin\Debug\net5.0\13.ActivationKeys.deps.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\13.ActivationKeys\bin\Debug\net5.0\13.ActivationKeys.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\13.ActivationKeys\bin\Debug\net5.0\13.ActivationKeys.runtimeconfig.dev.json
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\13.ActivationKeys\bin\Debug\net5.0\13.ActivationKeys.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\13.ActivationKeys\bin\Debug\net5.0\13.ActivationKeys.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\13.ActivationKeys\obj\Debug\net5.0\13.ActivationKeys.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\13.ActivationKeys\obj\Debug\net5.0\13.ActivationKeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\13.ActivationKeys\obj\Debug\net5.0\13.ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\13.ActivationKeys\obj\Debug\net5.0\13.ActivationKeys.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\13.ActivationKeys\obj\Debug\net5.0\13.ActivationKeys.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\13.ActivationKeys\obj\Debug\net5.0\13.ActivationKeys.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\13.ActivationKeys\obj\Debug\net5.0\refint\13.ActivationKeys.dll
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\13.ActivationKeys\obj\Debug\net5.0\13.ActivationKeys.pdb
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\13.ActivationKeys\obj\Debug\net5.0\13.ActivationKeys.genruntimeconfig.cache
+C:\Users\User\source\repos\FundamentalsExamPrepExercises\13.ActivationKeys\obj\Debug\net5.0\ref\13.ActivationKeys.dll
