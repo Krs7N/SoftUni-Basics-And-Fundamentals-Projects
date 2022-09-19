@@ -9,4 +9,4 @@ My first folders are revision from my basics course in SoftUni:<br/>
    - the fourth and final bug was where instead of "&&" for the holiday days (Saturday / Sunday) it had to be "||" so when there is 1 of the following days it saves the day as holiday instead of rejecting it, because it can't be Saturday and Sunday at the same time.
  - I found the bugs and this is the fixed code:
 ![debugger](https://user-images.githubusercontent.com/102831846/169687915-a26ca3b6-d74a-4864-9097-66e56e78a806.png)
- - What this piece of code does is - user enters 2 dates (1 as starting date, 1 as end date) and the program generates the holidays (saturdays and sundays) that are in this period of time.![consoleResult](https://user-images.githubusercontent.com/102831846/169688269-39daeb45-73bd-4eac-871f-3642b4863475.png)
+ - What this piece of code does is - user enters 2 dates (1 as starting date, 1 as end date) and the program generates the weekend days, the off days (saturdays and sundays) that are in this period of time.![consoleResult](https://user-images.githubusercontent.com/102831846/169688269-39daeb45-73bd-4eac-871f-3642b4863475.png)
